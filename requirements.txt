@@ -1,0 +1,1 @@
+pip install customtkinter tkinter deepface tensorflow tf-keras
